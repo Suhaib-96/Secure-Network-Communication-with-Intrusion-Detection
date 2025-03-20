@@ -31,6 +31,9 @@
 3.  قم بتشغيل الأمر التالي: `python client.py`
 4.  سيتصل العميل بالخادم، ويمكنك إدخال الرسائل للتواصل المشفر.
 
+    ![Image Alt]([image_url](https://github.com/Suhaib-96/Secure-Network-Communication-with-Intrusion-Detection/blob/main/server-client-en.png?raw=true)
+    
+
 ### 3. تشغيل نظام كشف التسلل (IDS) (`ids.py`)
 
 1.  افتح موجه أوامر أو طرفية أخرى.
@@ -39,6 +42,10 @@
 4.  سيبدأ نظام IDS في مراقبة حركة مرور الشبكة.
 5.  سيسجل IDS أي نشاط مشبوه في ملف سجل أو قاعدة بيانات (حسب التنفيذ).
 6.  قد يتم حظر عناوين IP المشبوهة تلقائيًا (حسب التنفيذ).
+
+    ![Image Alt]([image_url](https://github.com/Suhaib-96/Secure-Network-Communication-with-Intrusion-Detection/blob/bcc2bf50fa074efc5f41fe9f88a481ee9445d4b4/ids.png)
+    
+     ![Image Alt]([image_url](https://github.com/Suhaib-96/Secure-Network-Communication-with-Intrusion-Detection/blob/bcc2bf50fa074efc5f41fe9f88a481ee9445d4b4/ids2.png)
 
 ## ملاحظات
 
